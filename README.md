@@ -1,4 +1,4 @@
-🎓 **PhD Student** at **Imperial College London**  
+### I am a 🎓 **PhD Student** at **Imperial College London**  
 🔬 Researching **Probabilistic Machine Learning for Decision Making under Uncertainty**
 
 📐 Outside of my PhD I like to apply mathematics and machine learning to real-world problems, including  
