@@ -3,11 +3,10 @@
 I am a 🎓 **PhD Researcher** at **Imperial College London**  
 🔬 Researching **Probabilistic Machine Learning for Decision Making under Uncertainty**
 
-📐 Outside of my PhD I like to apply mathematics and machine learning to real-world problems, including  
-⚽ sports analytics and 📈 finance
+📐 Outside of my PhD I like to apply mathematics and machine learning to real-world problems, including  ⚽ sports, 📈 financial markets and more...
 
 🌐 [🌍 Website](https://matthewmarsh11.github.io.com)  
-💼 [🔗 LinkedIn](https://www.linkedin.com/in/matthew--marsh/)
+💼 [🔗 LinkedIn](https://www.linkedin.com/in/matthew--marsh/)  
 📚 [📖 The Research Group](https://www.optimlpse.co.uk)
 <!--
 **matthewmarsh11/matthewmarsh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
