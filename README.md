@@ -5,7 +5,7 @@ I am a 🎓 **PhD Researcher** at **Imperial College London**
 
 📐 Outside of my PhD I like to apply mathematics and machine learning to real-world problems, including  ⚽ sports, 📈 financial markets and more...
 
-🌐 [🌍 Website](https://matthewmarsh11.github.io.com)  
+🌐 [🌍 Website](https://matthewmarsh11.github.io)  
 💼 [🔗 LinkedIn](https://www.linkedin.com/in/matthew--marsh/)  
 📚 [📖 The Research Group](https://www.optimlpse.co.uk)
 <!--
